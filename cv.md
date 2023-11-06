@@ -1,6 +1,12 @@
 # Ivan Pisinov
 
 Student of RS School
-## *Contact Information*
-* Address: Amur region, Belogorsk
-* Email: i.s.piskunov@gmail.com
+
+## _Contact Information_
+
+-   Address: Amur region, Belogorsk
+-   Email: i.s.piskunov@gmail.com
+
+## About me:
+
+_I am 35 years old, so I have extensive experience working with people and working in a team. I am able to search for information and overcome difficulties that arise when solving a problem. Programming attracts me because it is the future, the modern world cannot be imagined without computer technology, and I want to be part of this future._

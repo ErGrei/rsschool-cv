@@ -22,3 +22,16 @@ _I am 35 years old, so I have extensive experience working with people and worki
 
 1. University: Qualification engineer
 2. Courses: from 05.11.2023 to present RS School
+
+## Code examples:
+```javascript
+function century(year) {
+    // Finish this :)
+    let a = 0;
+    while (year > 0){
+      year-=100;
+      a++;
+    }
+    return a;
+  }
+```
